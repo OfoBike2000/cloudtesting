@@ -1,4 +1,4 @@
 # cloudtesting
 ##editing the file
-this is a test text i am typoing on this page
-it is my first git experience
+This is a test text I am typing on this page
+It is my first git experience
